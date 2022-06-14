@@ -1,0 +1,19 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "chess game application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CLII412/chess.git"
+  },
+  "author": "Dima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CLII412/chess/issues"
+  },
+  "homepage": "https://github.com/CLII412/chess#readme"
+}
